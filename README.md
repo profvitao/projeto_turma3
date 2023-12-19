@@ -9,3 +9,6 @@ Este repositório foi criado para o **treinamento** de versionamento da GED.
 |Celso|Jandira|DEV|
 |Mayara|Diadema|DEV|
 |Pedro|Osasco|Redes|
+
+
+> Teste de destaque
